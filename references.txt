@@ -1,1 +1,13 @@
 https://arxiv.org/pdf/1412.6980v8.pdf
+
+https://datascience.stackexchange.com/questions/47751/what-activation-function-should-i-use-for-a-specific-regression-problem
+
+https://stats.stackexchange.com/questions/181/how-to-choose-the-number-of-hidden-layers-and-nodes-in-a-feedforward-neural-netw#:~:text=The%20number%20of%20hidden%20neurons,size%20of%20the%20input%20layer.
+
+https://towardsdatascience.com/how-to-choose-the-right-activation-function-for-neural-networks-3941ff0e6f9c
+
+https://towardsdatascience.com/cost-functions-of-regression-and-its-optimization-techniques-in-machine-learning-2f5931cd33f1
+
+https://towardsdatascience.com/a-visual-explanation-of-gradient-descent-methods-momentum-adagrad-rmsprop-adam-f898b102325c#:~:text=The%20Momentum%20method%20uses%20the,is%20generally%20the%20best%20choice.
+
+https://paperswithcode.com/method/adadelta#:~:text=AdaDelta%20is%20a%20stochastic%20optimization,aggressive%2C%20monotonically%20decreasing%20learning%20rate.
