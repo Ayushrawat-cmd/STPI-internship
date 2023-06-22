@@ -11,3 +11,7 @@ https://towardsdatascience.com/cost-functions-of-regression-and-its-optimization
 https://towardsdatascience.com/a-visual-explanation-of-gradient-descent-methods-momentum-adagrad-rmsprop-adam-f898b102325c#:~:text=The%20Momentum%20method%20uses%20the,is%20generally%20the%20best%20choice.
 
 https://paperswithcode.com/method/adadelta#:~:text=AdaDelta%20is%20a%20stochastic%20optimization,aggressive%2C%20monotonically%20decreasing%20learning%20rate.
+
+https://towardsdatascience.com/analyzing-different-types-of-activation-functions-in-neural-networks-which-one-to-prefer-e11649256209
+
+https://medium.com/@dtuk81/confusion-matrix-visualization-fc31e3f30fea
